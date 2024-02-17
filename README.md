@@ -4,8 +4,7 @@ The landing page is designed to showcase the services and offerings of the trave
 
 ## Screenshot
 ![Alt Text](/scr.png)
- <br><br> <br><br>
-![Alt Text](/scr2.png)
+
 
 
 ## Technologies Used
