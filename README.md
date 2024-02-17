@@ -5,7 +5,7 @@ The landing page is designed to showcase the services and offerings of the trave
 ## Screenshot
 ![Alt Text](/scr.png)
 
-
+<br><br>
 
 ## Technologies Used
 - HTML: Used for creating the structure and content of the landing page.
